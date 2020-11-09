@@ -1,0 +1,11 @@
+
+Bsquid:S1068"-Remove this unused "statement" private field.(”Ş‹Á
+Gsquid:S1068"-Remove this unused "resultSet" private field.(µ°´Ëøÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(Ö·÷şÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(Ö·÷şÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(Ö·÷şÿÿÿÿ
+Jsquid:S1068"5Remove this unused "preparedStatement" private field.(™ëÇ
+Ysquid:S2147"DCombine this catch with the one at line 32, which has the same body.(”ı¾
+=squid:S1148"#Use a logger to log this exception.(Ö·÷şÿÿÿÿ
